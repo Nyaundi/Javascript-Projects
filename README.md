@@ -2,7 +2,7 @@
 
 ##
 
-#### Ispired by johnsmilga, as on his Freecodecamp Youtube series (https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1312s)
+#### Inspired by johnsmilga, as on his Freecodecamp Youtube series (https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1312s)
 
 
 
