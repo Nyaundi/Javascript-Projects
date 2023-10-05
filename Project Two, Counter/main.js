@@ -29,3 +29,9 @@ btns.forEach(function (btn) {
         value.textContent = count;
     });
 });
+
+const newArena = document.querySelector('.btn decrease')
+
+newArena.forEach => {
+    
+}
